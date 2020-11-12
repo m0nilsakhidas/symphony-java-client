@@ -86,7 +86,7 @@
 
     <properties>
         <whitesource.product>Symphony Java Client</whitesource.product>
-        <slfj4-version>1.7.21</slfj4-version>
+        <slfj4-version>1.7.30</slfj4-version>
         <jaxrs-version>2.1</jaxrs-version>
         <junit-version>4.12</junit-version>
         <mokito-version>2.4.0</mokito-version>
